@@ -1,0 +1,5 @@
+build:
+  docker:
+    MK: Dockerfile
+run:
+  MK: python3 -m PythonX
