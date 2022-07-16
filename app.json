@@ -8,7 +8,7 @@
         "PythonX",
         "SpamBots"
     ],
-    "repository": "https://github.com/ERR0rMK/ThePythonSpam",
+    "repository": "https://github.com/nandini15n/ThePythonSpam",
     "env": {
       "API_ID": {
         "description": "Fill Api ID. Take this value from My.telegram.org",
